@@ -61,7 +61,7 @@
 
 ### Final year project
 - IERG4998 Final Year Project I 
-- 1. [TPN](https://arxiv.org/abs/2004.03548) action recgonition network deployment and optimization on Jetson nano supervised by [Prof. Zhou](https://boleizhou.github.io) (suspended)  https://arxiv.org/abs/2004.03548
+- 1. [TPN](https://arxiv.org/abs/2004.03548) action recgonition network deployment and optimization on Jetson nano supervised by [Prof. Zhou](https://boleizhou.github.io) (suspended)
 - 2.  Exploiting Privacy Leakage of User Location From Smartphone IMU supervised by [Prof. Yan](https://yanzhenyu.com/)
 - IERG4999 Final Year Project II
 - cont. Exploiting Privacy Leakage of User Location From Smartphone IMU and Application on contact tracing using vibration-based communication with smartphont IMU supervised by [Prof. Yan](https://yanzhenyu.com/)
