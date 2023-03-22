@@ -35,64 +35,54 @@
 - IERG2060 Basic Analog and Digital Circuits
 - ENGG2310 Principles of Communication Systems
 - IERG3820 Communications Lab
+- IERG3800 Information Infrastructure Design Lab
+- IERG3060 Microcontrollers and Embedded Systems
+- IERG3810 Microcontrollers and Embedded Systems Laboratory
 
-### CS, Programming, Software Dev
+### CS, Software, Data
 - ENGG1110 Problem Solving By Programming
 - IERG2080 Introduction to Systems Programming
 - CSCI2100 Data Structures
 - IERG3080 Information and Software Engineering Practice
+- CSCI3150 Introduction to Operating Systems
+- IERG3830 Product Design and Development
+- CSCI3320 Fundamentals of Machine Learning
+- IERG4300 Web-scale Information Analytics
+- SEEM4730 Statistics Modeling and Analysis in Financial Engineering
+- IERG4330 Programming Big Data Systems (self study) https://mobitec.ie.cuhk.edu.hk/ierg4330Spring2021/
+- IERG4190 Multimedia Coding and Processing (self study) http://bzhou.ie.cuhk.edu.hk/teaching/ierg4190iems5707/
+- CMSC5735 Advanced Topics in Cloud Computing (self study) https://mobitec.ie.cuhk.edu.hk/cmsc5735/
 
-### Networking
+### Networking amd Cyber Security
 - IERG3310 Computer Networks
+- IERG4130 Introduction to Cyber Security
+- IERG4220 Secure Software Engineering
+- IERG4350 Cloud Computing Security
 
-### Machine Learning, Big data
-- 
-
-### Cyber Security
-- 
-
-CHLT1100 University Chinese I
-GEUC1011 University Life and Learning
-ELTU1001 Foundation English for University Studies
-CHLT1200 University Chinese II
-UGFN1000 In Dialogue With Nature
-ELTU2014 English for Engineering Students I
-JASP1450 New Practical Japanese I
-UGFH1000 In Dialogue with Humanity
-GEUC2101 Social Service: Participation and Reflection
-
-
-IERG3800 Information Infrastructure Design Lab
-UGEA2100 Outline of Chinese Culture
-UGEC1281 Understanding Japanese Languages and Culture
-CSCI3150 Introduction to Operating Systems
-CSCI3320 Fundamentals of Machine Learning
-ELTU3014 English for Engineering Students II
-GEUC1000 College Assembly
-IERG3060 Microcontrollers and Embedded Systems
-IERG3810 Microcontrollers and Embedded Systems Laboratory
-IERG4130 Introduction to Cyber Security
-GEUC1000 College Assembly
-GEUC2103 Social Innovation: Social Enterprises and Demand
-IERG4220 Secure Software Engineering
-IERG4300 Web-scale Information Analytics
-IERG4998 Final Year Project I
-SEEM4730 Statistics Modeling and Analysis in Financial Engineering
-UGEB2132 Earth as Seen From Space
-UGED1111 Logic
-GEUC1000 College Assembly
-GEUC4012 Social Enterprise and Innovation: Internship
-IERG3830 Product Design and Development
-IERG4350 Cloud Computing Security
-IERG4999 Final Year Project II
-
-
-
-
-###
+### Final year project
+- IERG4998 Final Year Project I 
+- 1. [TPN](https://arxiv.org/abs/2004.03548) action recgonition network deployment and optimization on Jetson nano supervised by [Prof. Zhou](https://boleizhou.github.io) (suspended)  https://arxiv.org/abs/2004.03548
+- 2.  Exploiting Privacy Leakage of User Location From Smartphone IMU supervised by [Prof. Yan](https://yanzhenyu.com/)
+- IERG4999 Final Year Project II
+- cont. Exploiting Privacy Leakage of User Location From Smartphone IMU and Application on contact tracing using vibration-based communication with smartphont IMU supervised by [Prof. Yan](https://yanzhenyu.com/)
 
 ### General Studies
-- 
+- CHLT1100 University Chinese I
+- CHLT1200 University Chinese II
+- ELTU1001 Foundation English for University Studies
+- ELTU2014 English for Engineering Students I 
+- ELTU3014 English for Engineering Students II
+- GEUC1011 University Life and Learning
+- UGFN1000 In Dialogue With Nature
+- JASP1450 New Practical Japanese I
+- UGFH1000 In Dialogue with Humanity
+- GEUC2101 Social Service: Participation and Reflection
+- UGEA2100 Outline of Chinese Culture
+- UGEC1281 Understanding Japanese Languages and Culture
+- GEUC2103 Social Innovation: Social Enterprises and Demand
+- UGEB2132 Earth as Seen From Space
+- UGED1111 Logic
+- GEUC4012 Social Enterprise and Innovation: Internship
 
 ## Courses in Chalmers
 ### 2022 lp1
