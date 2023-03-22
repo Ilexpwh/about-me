@@ -3,7 +3,7 @@
 ### Education
 |Year|Program|Institution|
 |---|---|---|
-|2022 - 2024||MSc Data Science and AI|Chalmers University of Technology|
+|2022 - 2024|MSc Data Science and AI|Chalmers University of Technology|
 |2019 - 2022|BEng Information Engineering|The Chinese University of Hong Kong|
 |2018 - 2019|BEng Engineering|The Chinese University of Hong Kong|
 
