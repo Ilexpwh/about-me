@@ -11,7 +11,7 @@
 |Year|Title|Company|
 |---|---|---|
 |2022|Backend Developer|Shiji HK|
-|2022|Data Analyst|TECM FSES|
+|2022|Data Analyst Intern|TECM FSES|
 |2021|Machine Learning Developer|Aerovision Technology Limited|
 |2021|NLP Research Student Assistant|SEEM CUHK|
 
